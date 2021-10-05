@@ -63,7 +63,7 @@
  public function  render()
  {
      return '<div class="movie">
-     <h1>Titolo:'. $this->getTitle() .'</h1>
+     <h1>Titolo: '. $this->getTitle() .'</h1>
      <p>Genre: '. $this->getGenre() .'</br> Lingua:  '. $this->getLang() .'</p>
      <small>Voto: '. $this->getVote() .'/10 </small>
    </div>';
