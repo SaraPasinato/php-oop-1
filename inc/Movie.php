@@ -57,7 +57,9 @@
  public function getPosterPath(){
      return $this->poster_path;
  }
-
+/**
+ * @return string render movie
+ */
  public function  render()
  {
      return '<div class="movie">
