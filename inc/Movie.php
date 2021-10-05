@@ -57,6 +57,8 @@
  public function getPosterPath(){
      return $this->poster_path;
  }
+ //?SETTER
+ //? Methods
 /**
  * @return string render movie
  */

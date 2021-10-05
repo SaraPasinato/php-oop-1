@@ -27,7 +27,7 @@ $m2=new Movie(873200,'Guardiani della galassia ','fantasy','en',3,'bye.png');
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>OOP1: class</title>
 </head>
-<body>
+<body style="margin: 0 auto; width:700px;">
       <?php echo $m1->render()?>
       <?php echo $m2->render()?>
 </body>
