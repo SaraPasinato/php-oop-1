@@ -15,7 +15,7 @@ require_once __DIR__ . '/inc/Movie.php';
 
 
 $m1=new Movie(872200,'Ritorno al futuro - 30 anni dopo','fantasy','it',1,'ciao.png');
-$m2=new Movie(872200,'Guardiani della galassia ','fantasy','en',3,'bye.png');
+$m2=new Movie(873200,'Guardiani della galassia ','fantasy','en',3,'bye.png');
 
 ?>
 
